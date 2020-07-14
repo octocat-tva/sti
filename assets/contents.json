@@ -1,6 +1,7 @@
 {
   "android_play_store_link": "",
   "ios_app_store_link": "",
+  "version":1,
   "sticker_packs": [
     {
       "identifier": "1",

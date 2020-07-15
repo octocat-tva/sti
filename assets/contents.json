@@ -231,7 +231,7 @@
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "7.webp"TRAY
+            "tray_image_file": "7_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -280,7 +280,7 @@
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "9.webp"TRAY
+            "tray_image_file": "9_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -329,7 +329,7 @@
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "9.webp"TRAY
+            "tray_image_file": "9_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -378,7 +378,7 @@
                     "image_file": "3.webp"
                 }
             ],
-            "tray_image_file": "3.webp"TRAY
+            "tray_image_file": "3_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -427,7 +427,7 @@
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "9.webp"TRAY
+            "tray_image_file": "9_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -476,7 +476,7 @@
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "9.webp"TRAY
+            "tray_image_file": "9_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -518,7 +518,7 @@
                     "image_file": "8.webp"
                 }
             ],
-            "tray_image_file": "8.webp"TRAY
+            "tray_image_file": "8_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -560,7 +560,7 @@
                     "image_file": "4.webp"
                 }
             ],
-            "tray_image_file": "4.webp"TRAY
+            "tray_image_file": "4_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -609,7 +609,7 @@
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "7.webp"TRAY
+            "tray_image_file": "7_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -658,7 +658,7 @@
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "9.webp"TRAY
+            "tray_image_file": "9_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -700,7 +700,7 @@
                     "image_file": "3.webp"
                 }
             ],
-            "tray_image_file": "3.webp"TRAY
+            "tray_image_file": "3_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -749,7 +749,7 @@
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "7.webp"TRAY
+            "tray_image_file": "7_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -791,7 +791,7 @@
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "7.webp"TRAY
+            "tray_image_file": "7_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -840,7 +840,7 @@
                     "image_file": "8.webp"
                 }
             ],
-            "tray_image_file": "8.webp"TRAY
+            "tray_image_file": "8_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -889,7 +889,7 @@
                     "image_file": "4.webp"
                 }
             ],
-            "tray_image_file": "4.webp"TRAY
+            "tray_image_file": "4_tray.webp"
         },
         {
             "avoid_cache": false,

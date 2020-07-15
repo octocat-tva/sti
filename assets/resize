@@ -1,18 +1,111 @@
 #!/bin/bash
+#
+#convert -resize 96x96 "BabyandTeddy/7.webp"      -define webp:lossless=true   "BabyandTeddy/7_tray.webp"
+#convert -resize 96x96 "BabyFaces/9.webp"         -define webp:lossless=true   "BabyFaces/9_tray.webp"
+#convert -resize 96x96 "Catmoji/9.webp"           -define webp:lossless=true   "Catmoji/9_tray.webp"
+#convert -resize 96x96 "CoolPanda/3.webp"         -define webp:lossless=true   "CoolPanda/3_tray.webp"
+#convert -resize 96x96 "Cowmoji2/9.webp"          -define webp:lossless=true   "Cowmoji2/9_tray.webp"
+#convert -resize 96x96 "Easter1/9.webp"           -define webp:lossless=true   "Easter1/9_tray.webp"
+#convert -resize 96x96 "EidulFitr/8.webp"         -define webp:lossless=true   "EidulFitr/8_tray.webp"
+#convert -resize 96x96 "EnglishChat3/4.webp"      -define webp:lossless=true   "EnglishChat3/4_tray.webp"
+#convert -resize 96x96 "FunnyChicken/7.webp"      -define webp:lossless=true   "FunnyChicken/7_tray.webp"
+#convert -resize 96x96 "Girlmoji/9.webp"          -define webp:lossless=true   "Girlmoji/9_tray.webp"
+#convert -resize 96x96 "Leo/3.webp"               -define webp:lossless=true   "Leo/3_tray.webp"
+#convert -resize 96x96 "Marshmallow/7.webp"       -define webp:lossless=true   "Marshmallow/7_tray.webp"
+#convert -resize 96x96 "MiloThePug/7.webp"        -define webp:lossless=true   "MiloThePug/7_tray.webp"
+#convert -resize 96x96 "Oinker/8.webp"            -define webp:lossless=true   "Oinker/8_tray.webp"
+#convert -resize 96x96 "PikkaPengu/4.webp"        -define webp:lossless=true   "PikkaPengu/4_tray.webp"
+#convert -resize 96x96 "VegetableEmoji2/1.webp"   -define webp:lossless=true   "VegetableEmoji2/1_tray.webp"
 
-convert -resize 96x96 "BabyandTeddy/7.webp"      -define webp:lossless=true   "BabyandTeddy/7_tray.webp"
-convert -resize 96x96 "BabyFaces/9.webp"         -define webp:lossless=true   "BabyFaces/9_tray.webp"
-convert -resize 96x96 "Catmoji/9.webp"           -define webp:lossless=true   "Catmoji/9 _ tray.webp"
-convert -resize 96x96 "CoolPanda/3.webp"         -define webp:lossless=true   "CoolPanda/3 _ tray.webp"
-convert -resize 96x96 "Cowmoji2/9.webp"          -define webp:lossless=true   "Cowmoji2/9 _ tray.webp"
-convert -resize 96x96 "Easter1/9.webp"           -define webp:lossless=true   "Easter1/9 _ tray.webp"
-convert -resize 96x96 "EidulFitr/8.webp"         -define webp:lossless=true   "EidulFitr/8 _ tray.webp"
-convert -resize 96x96 "EnglishChat3/4.webp"      -define webp:lossless=true   "EnglishChat3/4 _ tray.webp"
-convert -resize 96x96 "FunnyChicken/7.webp"      -define webp:lossless=true   "FunnyChicken/7 _ tray.webp"
-convert -resize 96x96 "Girlmoji/9.webp"          -define webp:lossless=true   "Girlmoji/9 _ tray.webp"
-convert -resize 96x96 "Leo/3.webp"               -define webp:lossless=true   "Leo/3 _ tray.webp"
-convert -resize 96x96 "Marshmallow/7.webp"       -define webp:lossless=true   "Marshmallow/7 _ tray.webp"
-convert -resize 96x96 "MiloThePug/7.webp"        -define webp:lossless=true   "MiloThePug/7 _ tray.webp"
-convert -resize 96x96 "Oinker/8.webp"            -define webp:lossless=true   "Oinker/8 _ tray.webp"
-convert -resize 96x96 "PikkaPengu/4.webp"        -define webp:lossless=true   "PikkaPengu/4 _ tray.webp"
-convert -resize 96x96 "VegetableEmoji2/1.webp"   -define webp:lossless=true   "VegetableEmoji2/1 _ tray.webp"
+# pm@pm:$identify -verbose ./1/01_Cuppy_smile.webp  | grep "geometry"
+#Decoded /tmp/magick-12690bLVAV7U3OeKy. Dimensions: 512 x 512  (with alpha). Format: lossless. Now saving...
+#Saved file /tmp/magick-12690Zf_UZ6SjiJcq
+#  Page geometry: 512x512+0+0
+
+
+
+files=(
+./Leo/10
+./Leo/1
+./Leo/11
+./Leo/3
+./Marshmallow/10
+./Marshmallow/7
+./Marshmallow/5
+./Marshmallow/2
+./Marshmallow/11
+./EidulFitr/4
+./EidulFitr/7
+./EidulFitr/8
+./EidulFitr/2
+./Oinker/25
+./Oinker/8
+./Oinker/22
+./Oinker/12
+./Oinker/23
+./MiloThePug/7
+./MiloThePug/5
+./MiloThePug/12
+./MiloThePug/6
+./PikkaPengu/17
+./PikkaPengu/4
+./PikkaPengu/1
+./PikkaPengu/18
+./PikkaPengu/2
+./BabyFaces/10
+./BabyFaces/4
+./BabyFaces/5
+./BabyFaces/12
+./BabyFaces/9
+./FunnyChicken/4
+./FunnyChicken/7
+./FunnyChicken/5
+./FunnyChicken/3
+./FunnyChicken/6
+./Cowmoji2/8
+./Cowmoji2/18
+./Cowmoji2/19
+./Cowmoji2/2
+./Cowmoji2/9
+./CoolPanda/20
+./CoolPanda/19
+./CoolPanda/13
+./CoolPanda/2
+./CoolPanda/3
+./BabyandTeddy/10
+./BabyandTeddy/7
+./BabyandTeddy/14
+./BabyandTeddy/2
+./Girlmoji/8
+./Girlmoji/1
+./Girlmoji/9
+./Girlmoji/11
+./Girlmoji/6
+./VegetableEmoji2/10
+./VegetableEmoji2/8
+./VegetableEmoji2/1
+./VegetableEmoji2/5
+./Easter1/10
+./Easter1/4
+./Easter1/1
+./Easter1/14
+./Easter1/9
+./EnglishChat3/4
+./EnglishChat3/1
+./EnglishChat3/14
+./EnglishChat3/11
+./Catmoji/8
+./Catmoji/5
+./Catmoji/2
+./Catmoji/9
+./Catmoji/3
+)
+
+for x in ${files[@]}
+do
+	identify -verbose "${x}.webp" | grep geomety
+	#convert -resize 512x512 "${x}.webp"   -define webp:lossless=true "${x}_big.webp"
+	#mv "${x}_big.webp" "${x}.webp"
+	#identify -verbose "${x}.webp" | grep geomety
+done
+

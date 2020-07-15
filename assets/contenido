@@ -1,0 +1,635 @@
+[
+    {
+        "name": ".",
+        "tickers": [
+            {
+                "name": "BabyandTeddy",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "10.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "14.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "2.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "7.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "BabyFaces",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "10.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "12.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "4.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "5.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "9.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "Catmoji",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "2.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "3.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "5.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "8.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "9.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "contenido",
+                "type": "file"
+            },
+            {
+                "name": "CoolPanda",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "13.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "19.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "20.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "2.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "3.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "Cowmoji2",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "18.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "19.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "2.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "8.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "9.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "download",
+                "type": "file"
+            },
+            {
+                "name": "Easter1",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "10.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "14.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "1.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "4.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "9.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "EidulFitr",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "2.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "4.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "7.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "8.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "EnglishChat3",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "11.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "14.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "1.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "4.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "FunnyChicken",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "3.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "4.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "5.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "6.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "7.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "Girlmoji",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "11.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "1.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "6.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "8.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "9.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "Leo",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "10.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "11.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "1.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "3.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "Marshmallow",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "10.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "11.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "2.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "5.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "7.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "MiloThePug",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "12.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "5.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "6.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "7.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "Oinker",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "12.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "22.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "23.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "25.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "8.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "PikkaPengu",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "17.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "18.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "1.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "2.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "4.webp"
+                    }
+                ],
+                "type": "directory"
+            },
+            {
+                "name": "VegetableEmoji2",
+                "stickers": [
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "10.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "1.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "5.webp"
+                    },
+                    {
+                        "emojis": [
+                            "\u2615",
+                            "\ud83d\ude42"
+                        ],
+                        "name": "8.webp"
+                    }
+                ],
+                "type": "directory"
+            }
+        ],
+        "type": "directory"
+    },
+    {
+        "directories": 16,
+        "files": 76,
+        "type": "report"
+    }
+]

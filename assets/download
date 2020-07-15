@@ -1,0 +1,43 @@
+#!/bin/bash
+
+url="https://static.stickify.app"
+paquetes=(
+BabyFaces
+MiloThePug
+PikkaPengu
+BabyandTeddy
+Cowmoji1
+MalayamlamChat
+FunnyChicken
+Girlmoji
+Easter1
+Catmoji
+CoolPanda
+Cowmoji2
+Marshmallow
+PaperTeddy
+CatsUp
+EidulFitr
+VegetableEmoji2
+EnglishChat3
+StayAtHome2
+StayAtHome
+Leo
+Oinker
+EnglishChat2
+)
+
+for dir in ${paquetes[*]}
+do
+	#mkdir ./$dir
+	cd ./$dir
+	echo "$dir"
+	for image in `seq 1 30`
+	do
+		wget $url/$dir/$image.webp
+	done
+	echo -e "\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n"
+	cd ..
+done
+
+

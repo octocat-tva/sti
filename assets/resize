@@ -1,0 +1,18 @@
+#!/bin/bash
+
+convert -resize 96x96 "BabyandTeddy/7.webp"      -define webp:lossless=true   "BabyandTeddy/7_tray.webp"
+convert -resize 96x96 "BabyFaces/9.webp"         -define webp:lossless=true   "BabyFaces/9_tray.webp"
+convert -resize 96x96 "Catmoji/9.webp"           -define webp:lossless=true   "Catmoji/9 _ tray.webp"
+convert -resize 96x96 "CoolPanda/3.webp"         -define webp:lossless=true   "CoolPanda/3 _ tray.webp"
+convert -resize 96x96 "Cowmoji2/9.webp"          -define webp:lossless=true   "Cowmoji2/9 _ tray.webp"
+convert -resize 96x96 "Easter1/9.webp"           -define webp:lossless=true   "Easter1/9 _ tray.webp"
+convert -resize 96x96 "EidulFitr/8.webp"         -define webp:lossless=true   "EidulFitr/8 _ tray.webp"
+convert -resize 96x96 "EnglishChat3/4.webp"      -define webp:lossless=true   "EnglishChat3/4 _ tray.webp"
+convert -resize 96x96 "FunnyChicken/7.webp"      -define webp:lossless=true   "FunnyChicken/7 _ tray.webp"
+convert -resize 96x96 "Girlmoji/9.webp"          -define webp:lossless=true   "Girlmoji/9 _ tray.webp"
+convert -resize 96x96 "Leo/3.webp"               -define webp:lossless=true   "Leo/3 _ tray.webp"
+convert -resize 96x96 "Marshmallow/7.webp"       -define webp:lossless=true   "Marshmallow/7 _ tray.webp"
+convert -resize 96x96 "MiloThePug/7.webp"        -define webp:lossless=true   "MiloThePug/7 _ tray.webp"
+convert -resize 96x96 "Oinker/8.webp"            -define webp:lossless=true   "Oinker/8 _ tray.webp"
+convert -resize 96x96 "PikkaPengu/4.webp"        -define webp:lossless=true   "PikkaPengu/4 _ tray.webp"
+convert -resize 96x96 "VegetableEmoji2/1.webp"   -define webp:lossless=true   "VegetableEmoji2/1 _ tray.webp"

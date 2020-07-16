@@ -21,7 +21,7 @@ do
 ############################################################
 
 	   identifier=`echo $carpeta | sed -e 's/\///g'`
-		temp=(`ls ./$identifier`)
+		temp=(`ls ./$identifier | grep webp`)
 		imageTray=$(find "./$identifier" -iname "*tray*")
 		echo	-e '\n{
 					"identifier": "'$identifier'",

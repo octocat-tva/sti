@@ -187,13 +187,6 @@
                         "\ud83d\ude42"
                     ],
                     "image_file": "25_Cuppy_battery.webp"
-                },
-                {
-                    "emojis": [
-                        "\u2615",
-                        "\ud83d\ude42"
-                    ],
-                    "image_file": "tray_Cuppy.png"
                 }
             ],
             "tray_image_file": "./1/tray_Cuppy.png"
@@ -1160,13 +1153,6 @@
                         "\ud83d\ude42"
                     ],
                     "image_file": "58.webp"
-                },
-                {
-                    "emojis": [
-                        "\u2615",
-                        "\ud83d\ude42"
-                    ],
-                    "image_file": "tray_Cuppy.png"
                 }
             ],
             "tray_image_file": "./pack06/tray_Cuppy.png"

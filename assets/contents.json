@@ -1,6 +1,6 @@
 {
     "android_play_store_link": "https://play.google.com/store/apps/details?id=com.tvazteca.laacademia&hl=es_MX",
-    "ios_app_store_link": "https://apps.apple.com/mx/app/id1387963690",
+    "ios_app_store_link": "",
     "sticker_packs": [
         {
             "avoid_cache": false,
@@ -189,7 +189,7 @@
                     "image_file": "25_Cuppy_battery.webp"
                 }
             ],
-            "tray_image_file": "./1/tray_Cuppy.png"
+            "tray_image_file": "1/tray_Cuppy.png"
         },
         {
             "avoid_cache": false,
@@ -238,7 +238,7 @@
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "./BabyandTeddy/7_tray.webp"
+            "tray_image_file": "BabyandTeddy/7_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -294,7 +294,7 @@
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "./BabyFaces/9_tray.webp"
+            "tray_image_file": "BabyFaces/9_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -350,7 +350,7 @@
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "./Catmoji/9_tray.webp"
+            "tray_image_file": "Catmoji/9_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -406,7 +406,7 @@
                     "image_file": "3.webp"
                 }
             ],
-            "tray_image_file": "./CoolPanda/3_tray.webp"
+            "tray_image_file": "CoolPanda/3_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -462,7 +462,7 @@
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "./Cowmoji2/9_tray.webp"
+            "tray_image_file": "Cowmoji2/9_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -518,7 +518,7 @@
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "./Easter1/9_tray.webp"
+            "tray_image_file": "Easter1/9_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -567,7 +567,7 @@
                     "image_file": "8.webp"
                 }
             ],
-            "tray_image_file": "./EidulFitr/8_tray.webp"
+            "tray_image_file": "EidulFitr/8_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -616,7 +616,7 @@
                     "image_file": "4.webp"
                 }
             ],
-            "tray_image_file": "./EnglishChat3/4_tray.webp"
+            "tray_image_file": "EnglishChat3/4_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -672,7 +672,7 @@
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "./FunnyChicken/7_tray.webp"
+            "tray_image_file": "FunnyChicken/7_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -728,7 +728,7 @@
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "./Girlmoji/9_tray.webp"
+            "tray_image_file": "Girlmoji/9_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -777,7 +777,7 @@
                     "image_file": "3.webp"
                 }
             ],
-            "tray_image_file": "./Leo/3_tray.webp"
+            "tray_image_file": "Leo/3_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -833,7 +833,7 @@
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "./Marshmallow/7_tray.webp"
+            "tray_image_file": "Marshmallow/7_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -882,7 +882,7 @@
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "./MiloThePug/7_tray.webp"
+            "tray_image_file": "MiloThePug/7_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -938,7 +938,7 @@
                     "image_file": "8.webp"
                 }
             ],
-            "tray_image_file": "./Oinker/8_tray.webp"
+            "tray_image_file": "Oinker/8_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -1155,7 +1155,7 @@
                     "image_file": "58.webp"
                 }
             ],
-            "tray_image_file": "./pack06/tray_Cuppy.png"
+            "tray_image_file": "pack06/tray_Cuppy.png"
         },
         {
             "avoid_cache": false,
@@ -1211,7 +1211,7 @@
                     "image_file": "4.webp"
                 }
             ],
-            "tray_image_file": "./PikkaPengu/4_tray.webp"
+            "tray_image_file": "PikkaPengu/4_tray.webp"
         },
         {
             "avoid_cache": false,
@@ -1260,7 +1260,7 @@
                     "image_file": "8.webp"
                 }
             ],
-            "tray_image_file": "./VegetableEmoji2/1_tray.webp"
+            "tray_image_file": "VegetableEmoji2/1_tray.webp"
         }
     ],
     "version": 1

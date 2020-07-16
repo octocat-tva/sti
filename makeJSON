@@ -8,7 +8,7 @@ cd ./assets
 carpetas=(`ls -d */`)
 echo -e  '\n{
 	     "android_play_store_link": "https://play.google.com/store/apps/details?id=com.tvazteca.laacademia&hl=es_MX",
-		  "ios_app_store_link": "https://apps.apple.com/mx/app/id1387963690",
+		  "ios_app_store_link": "",
 		  "version":1,
 		  "sticker_packs": 
 		  [\n'
@@ -23,6 +23,7 @@ do
 	   identifier=`echo $carpeta | sed -e 's/\///g'`
 		temp=(`ls ./$identifier | grep webp`)
 		imageTray=$(find "./$identifier" -iname "*tray*")
+		imageTray=$(echo $imageTray | sed -e "s/\.\///g")
 		echo	-e '\n{
 					"identifier": "'$identifier'",
 					"name": "'$identifier'",

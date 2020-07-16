@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+./makeJSON | python -m json.tool > ./assets/contents.json
+
+carpetas=(`ls -d ./assets/*/` ./assets/contents.json )
+
+echo ${carpetas[*]}
+
+zip -r assets.zip ${carpetas[*]} 
+

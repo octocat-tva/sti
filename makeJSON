@@ -1,0 +1,79 @@
+#!/bin/bash
+
+
+
+
+cd ./assets
+
+carpetas=(`ls -d */`)
+echo -e  '\n{
+	     "android_play_store_link": "https://play.google.com/store/apps/details?id=com.tvazteca.laacademia&hl=es_MX",
+		  "ios_app_store_link": "https://apps.apple.com/mx/app/id1387963690",
+		  "version":1,
+		  "sticker_packs": 
+		  [\n'
+	outerSize=${#carpetas[*]}
+	outerIndex=0
+for carpeta in ${carpetas[*]}
+do
+############################################################
+#TODO VALIDAR VACUIDAD DE LAS CARPETAS
+############################################################
+
+	   identifier=`echo $carpeta | sed -e 's/\///g'`
+		temp=(`ls ./$identifier`)
+		imageTray=$(find "./$identifier" -iname "*tray*")
+		echo	-e '\n{
+					"identifier": "'$identifier'",
+					"name": "'$identifier'",
+					"publisher": "meh",
+					"tray_image_file": "'$imageTray'",
+					"image_data_version":"1",
+					"avoid_cache":false,
+					"publisher_website": "https://www.tvazteca.com/",
+					"privacy_policy_website": "https://www.tvazteca.com/politicas.html",
+					"license_agreement_website": "https://www.tvazteca.com/politicas.html",
+					"publisher_email":"",
+					"stickers": [\n'
+		interSize=${#temp[*]}
+		interIndex=0
+		for file in ${temp[*]}
+		do
+############################################################
+#TODO VALIDAR que el archivo sea imagen webp
+#metadata=identify -v $file 
+#echo $metadata | grep webp  #no vacio
+#echo $metadata | grep geometry # 512x512 y 96x96 son validos
+############################################################
+			echo -e '\n{
+						 "image_file": "'$file'",
+						 "emojis": ["☕","🙂"]
+					  }\n'
+			interIndex=$[interIndex +1 ]
+			if [ $interIndex -lt $interSize ]
+			then
+				echo ","
+			fi
+		done
+		echo -e   "\n]\n"
+		echo -e '\n}\n'
+		outerIndex=$[outerIndex +1 ]
+		if [ $outerIndex -lt $outerSize ]
+		then
+			echo ","
+		fi
+done
+
+echo -e '\n]\n'
+echo -e '\n}\n'
+
+
+
+
+
+
+
+
+
+
+

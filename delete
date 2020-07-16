@@ -1,0 +1,16 @@
+#!/bin/bash
+
+rm "./assets/Leo/3 _ tray.webp"
+rm "./assets/Marshmallow/7 _ tray.webp"
+rm "./assets/EidulFitr/8 _ tray.webp"
+rm "./assets/Oinker/8 _ tray.webp"
+rm "./assets/MiloThePug/7 _ tray.webp"
+rm "./assets/PikkaPengu/4 _ tray.webp"
+rm "./assets/FunnyChicken/7 _ tray.webp"
+rm "./assets/Cowmoji2/9 _ tray.webp"
+rm "./assets/CoolPanda/3 _ tray.webp"
+rm "./assets/Girlmoji/9 _ tray.webp"
+rm "./assets/VegetableEmoji2/1 _ tray.webp"
+rm "./assets/Easter1/9 _ tray.webp"
+rm "./assets/EnglishChat3/4 _ tray.webp"
+rm "./assets/Catmoji/9 _ tray.webp"

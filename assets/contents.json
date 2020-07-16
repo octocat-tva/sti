@@ -1,17 +1,17 @@
 {
-    "android_play_store_link": "",
-    "ios_app_store_link": "",
+    "android_play_store_link": "https://play.google.com/store/apps/details?id=com.tvazteca.laacademia&hl=es_MX",
+    "ios_app_store_link": "https://apps.apple.com/mx/app/id1387963690",
     "sticker_packs": [
         {
             "avoid_cache": false,
             "identifier": "1",
             "image_data_version": "1",
-            "license_agreement_website": "",
-            "name": "Cuppy",
-            "privacy_policy_website": "",
-            "publisher": "Jane Doe",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
+            "name": "1",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
+            "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -22,185 +22,192 @@
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude04",
-                        "\ud83d\ude00"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "02_Cuppy_lol.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude06",
-                        "\ud83d\ude02"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "03_Cuppy_rofl.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude29",
-                        "\ud83d\ude30"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "04_Cuppy_sad.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude2d",
-                        "\ud83d\udca7"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "05_Cuppy_cry.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude0d",
-                        "\u2665"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "06_Cuppy_love.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\udc94",
-                        "\ud83d\udc4e"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "07_Cuppy_hate.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude0d",
-                        "\ud83d\udc91"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "08_Cuppy_lovewithmug.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude18",
-                        "\ud83c\udf6a"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "09_Cuppy_lovewithcookie.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83e\udd14",
-                        "\ud83d\ude10"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "10_Cuppy_hmm.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude31",
-                        "\ud83d\ude35"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "11_Cuppy_upset.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude21",
-                        "\ud83d\ude20"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "12_Cuppy_angry.webp"
                 },
                 {
                     "emojis": [
-                        "\u2753",
-                        "\ud83e\udd14"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "13_Cuppy_curious.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83c\udf08",
-                        "\ud83d\ude1c"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "14_Cuppy_weird.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\udcbb",
-                        "\ud83d\ude29"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "15_Cuppy_bluescreen.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude21",
-                        "\ud83d\ude24"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "16_Cuppy_angry.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\ude29",
-                        "\ud83d\ude28"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "17_Cuppy_tired.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\udcbb",
-                        "\ud83c\udf03"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "18_Cuppy_workhard.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83c\udf89",
-                        "\u2728"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "19_Cuppy_shine.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83e\udd2e",
-                        "\ud83d\udc4e"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "20_Cuppy_disgusting.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\udd90",
-                        "\ud83d\ude4b"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "21_Cuppy_hi.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\udd90",
-                        "\ud83d\udc4b"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "22_Cuppy_bye.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83c\udf75",
-                        "\ud83d\ude0c"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "23_Cuppy_greentea.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\udcf1",
-                        "\ud83d\ude26"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "24_Cuppy_phone.webp"
                 },
                 {
                     "emojis": [
-                        "\ud83d\udd0b",
-                        "\ud83d\ude35"
+                        "\u2615",
+                        "\ud83d\ude42"
                     ],
                     "image_file": "25_Cuppy_battery.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "tray_Cuppy.png"
                 }
             ],
-            "tray_image_file": "tray_Cuppy.png"
+            "tray_image_file": "./1/tray_Cuppy.png"
         },
         {
             "avoid_cache": false,
             "identifier": "BabyandTeddy",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "BabyandTeddy",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -228,21 +235,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "7_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "7_tray.webp"
+            "tray_image_file": "./BabyandTeddy/7_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "BabyFaces",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "BabyFaces",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -277,21 +291,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "9_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "9_tray.webp"
+            "tray_image_file": "./BabyFaces/9_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "Catmoji",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "Catmoji",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -326,21 +347,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "9_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "9_tray.webp"
+            "tray_image_file": "./Catmoji/9_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "CoolPanda",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "CoolPanda",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -375,21 +403,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "3_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "3.webp"
                 }
             ],
-            "tray_image_file": "3_tray.webp"
+            "tray_image_file": "./CoolPanda/3_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "Cowmoji2",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "Cowmoji2",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -424,21 +459,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "9_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "9_tray.webp"
+            "tray_image_file": "./Cowmoji2/9_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "Easter1",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "Easter1",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -473,21 +515,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "9_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "9_tray.webp"
+            "tray_image_file": "./Easter1/9_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "EidulFitr",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "EidulFitr",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -515,21 +564,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "8_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "8.webp"
                 }
             ],
-            "tray_image_file": "8_tray.webp"
+            "tray_image_file": "./EidulFitr/8_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "EnglishChat3",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "EnglishChat3",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -557,21 +613,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "4_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "4.webp"
                 }
             ],
-            "tray_image_file": "4_tray.webp"
+            "tray_image_file": "./EnglishChat3/4_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "FunnyChicken",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "FunnyChicken",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -606,21 +669,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "7_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "7_tray.webp"
+            "tray_image_file": "./FunnyChicken/7_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "Girlmoji",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "Girlmoji",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -655,21 +725,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "9_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "9.webp"
                 }
             ],
-            "tray_image_file": "9_tray.webp"
+            "tray_image_file": "./Girlmoji/9_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "Leo",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "Leo",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -697,21 +774,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "3_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "3.webp"
                 }
             ],
-            "tray_image_file": "3_tray.webp"
+            "tray_image_file": "./Leo/3_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "Marshmallow",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "Marshmallow",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -746,21 +830,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "7_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "7_tray.webp"
+            "tray_image_file": "./Marshmallow/7_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "MiloThePug",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "MiloThePug",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -788,21 +879,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "7_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "7.webp"
                 }
             ],
-            "tray_image_file": "7_tray.webp"
+            "tray_image_file": "./MiloThePug/7_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "Oinker",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "Oinker",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -837,21 +935,252 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "8_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "8.webp"
                 }
             ],
-            "tray_image_file": "8_tray.webp"
+            "tray_image_file": "./Oinker/8_tray.webp"
+        },
+        {
+            "avoid_cache": false,
+            "identifier": "pack06",
+            "image_data_version": "1",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
+            "name": "pack06",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
+            "publisher": "meh",
+            "publisher_email": "",
+            "publisher_website": "https://www.tvazteca.com/",
+            "stickers": [
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "30.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "31.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "32.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "33.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "34.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "35.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "36.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "37.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "38.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "39.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "40.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "41.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "42.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "43.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "44.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "45.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "46.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "47.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "48.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "49.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "50.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "51.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "52.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "53.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "54.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "55.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "56.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "57.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "58.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "tray_Cuppy.png"
+                }
+            ],
+            "tray_image_file": "./pack06/tray_Cuppy.png"
         },
         {
             "avoid_cache": false,
             "identifier": "PikkaPengu",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "PikkaPengu",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -886,21 +1215,28 @@
                         "\u2615",
                         "\ud83d\ude42"
                     ],
+                    "image_file": "4_tray.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
                     "image_file": "4.webp"
                 }
             ],
-            "tray_image_file": "4_tray.webp"
+            "tray_image_file": "./PikkaPengu/4_tray.webp"
         },
         {
             "avoid_cache": false,
             "identifier": "VegetableEmoji2",
             "image_data_version": "1",
-            "license_agreement_website": "",
+            "license_agreement_website": "https://www.tvazteca.com/politicas.html",
             "name": "VegetableEmoji2",
-            "privacy_policy_website": "",
+            "privacy_policy_website": "https://www.tvazteca.com/politicas.html",
             "publisher": "meh",
             "publisher_email": "",
-            "publisher_website": "",
+            "publisher_website": "https://www.tvazteca.com/",
             "stickers": [
                 {
                     "emojis": [
@@ -908,6 +1244,13 @@
                         "\ud83d\ude42"
                     ],
                     "image_file": "10.webp"
+                },
+                {
+                    "emojis": [
+                        "\u2615",
+                        "\ud83d\ude42"
+                    ],
+                    "image_file": "1_tray.webp"
                 },
                 {
                     "emojis": [
@@ -931,10 +1274,8 @@
                     "image_file": "8.webp"
                 }
             ],
-            "tray_image_file": "1_tray.webp"
+            "tray_image_file": "./VegetableEmoji2/1_tray.webp"
         }
     ],
-    "version": 2
+    "version": 1
 }
-
-

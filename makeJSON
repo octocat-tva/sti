@@ -22,7 +22,7 @@ do
 
 	   identifier=`echo $carpeta | sed -e 's/\///g'`
 		temp=(`ls ./$identifier | grep webp | grep -v "tray"`)
-		imageTray=$(find "./$identifier" -iname "*tray*")
+		imageTray=$(cd "./$identifier"; find -iname "*tray*")
 		imageTray=$(echo $imageTray | sed -e "s/\.\///g")
 		echo	-e '\n{
 					"identifier": "'$identifier'",
@@ -48,7 +48,7 @@ do
 ############################################################
 			echo -e '\n{
 						 "image_file": "'$file'",
-						 "emojis": ["☕","🙂"]
+						 "emojis": []
 					  }\n'
 			interIndex=$[interIndex +1 ]
 			if [ $interIndex -lt $interSize ]
